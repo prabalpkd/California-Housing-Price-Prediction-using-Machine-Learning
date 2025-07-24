@@ -6,7 +6,7 @@ This project is a simple yet insightful Machine Learning application that predic
 
 ## 📚 Dataset Description
 
-We used the **California Housing Dataset**, available via `scikit-learn`. This dataset is derived from the 1990 U.S. Census and contains information collected from California districts.
+I used the **California Housing Dataset**, available via `scikit-learn`. This dataset is derived from the 1990 U.S. Census and contains information collected from California districts.
 
 ### ✅ Features (Independent Variables):
 - `MedInc` – Median income in a block group
@@ -93,15 +93,15 @@ pandas, numpy, scikit-learn, xgboost, time
 
 ###  🚀 Future Enhancements
 
-1.Tune hyperparameters using GridSearchCV or RandomizedSearchCV
-2.Visualize feature importance
-3.Deploy the best model using Streamlit or Flask
-4.Save model using joblib or pickle for reuse
+1. Tune hyperparameters using GridSearchCV or RandomizedSearchCV
+2. Visualize feature importance
+3. Deploy the best model using Streamlit or Flask
+4. Save model using joblib or pickle for reuse
 
 ### 🙌 Acknowledgment
 
-Thanks to Scikit-learn for providing the real-world California Housing dataset and to the open-source community for the powerful ML tools.
+  Thanks to Scikit-learn for providing the real-world California Housing dataset and to the open-source community for the powerful ML tools.
 
 
-##### Author
-Prabal Kumar Deka
+#### Author
+  Prabal Kumar Deka
